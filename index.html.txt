@@ -1,0 +1,9 @@
+<!DOCTYPPE html>
+<head><title>bluprint-fashion discovery</title>
+</head>
+<body>
+
+
+
+
+<body>
